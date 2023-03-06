@@ -1,0 +1,45 @@
+DS311 Day 1 Agenda:
+
+I. Introduction (30 min)
+II. Git & GitHub (60 min)
+III. Practice Basic Git Commands (30 min)
+IV. Assignments Review (15 min)
+
+I. Introduction
+
+- Introduce Norman, JunJie, Therasa, and Erika
+- Slack Activity (5 min)
+	- Slack Poll
+	- Send statement directly to instructor
+	"I will contact you if I have any questions regardign this class."
+
+## Start recording after introduction!!
+
+- Introduce Course 
+- Go over course syllabus and grading structure
+
+II. Git & GitHub
+
+- Install Git Bash?
+- Register GitHub Account?
+- Introduce basic command line code
+- Introduce basic git command
+- Clone course repo to local machine
+- Setup SSH key
+
+III. Practice Basic Git Commands
+
+- Git fork (remote to remote)
+- Git clone (remote to local)
+- Git status
+- Git log
+- Git add .
+- Git commit -m '<message>'
+- Git push
+
+Note: Exit vim using ":q" 
+
+IV. Assignment Review
+
+- Create a new repo for git lab exercise.
+- Add all the contents to the repo and submit on iLearn.
